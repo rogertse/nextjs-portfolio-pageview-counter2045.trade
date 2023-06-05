@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "2045.Trade.com",
-		template: "%s | 2045.Trade.com",
+		default: "2045.trade",
+		template: "%s | 2045.trade",
 	},
 	description: "Software engineer at upstash.com and founder of planetfall.io",
 	openGraph: {
-		title: "2045.Trade.com",
+		title: "2045.trade",
 		description:
 			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://2045.Trade.com",
-		siteName: "2045.Trade.com",
+		url: "https://2045.trade",
+		siteName: "2045.trade",
 		images: [
 			{
-				url: "https://2045.Trade.com/og.png",
+				url: "https://2045.trade/og.png",
 				width: 1920,
 				height: 1080,
 			},

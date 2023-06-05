@@ -22,6 +22,10 @@ const socials = [
 		href: "",
 		label: "微信",
 		handle: "hodlclub",
+
+		<p>2045Trade，<span class="tooltip”>。</span></p>
+<img src="https://twitter.com/chinaqq/photo" class="tooltip-image" />
+
 	},
 ];
 

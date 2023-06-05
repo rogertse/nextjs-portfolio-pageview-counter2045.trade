@@ -7,21 +7,21 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <Twitter size={20} />,
-		href: "https://twitter.com/2045.Trade_",
+		href: "https://twitter.com/2045Trade_",
 		label: "Twitter",
-		handle: "@2045.Trade_",
+		handle: "@2045Trade",
 	},
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:dev@2045.Trade.com",
+		href: "mailto:1860641@qq.com",
 		label: "Email",
-		handle: "dev@2045.Trade.com",
+		handle: "1860641@qq.com",
 	},
 	{
-		icon: <Github size={20} />,
-		href: "https://github.com/2045.Trade",
-		label: "Github",
-		handle: "2045.Trade",
+		icon: <微信群 size={20} />,
+		href: "",
+		label: "微信",
+		handle: "hodlclub",
 	},
 ];
 

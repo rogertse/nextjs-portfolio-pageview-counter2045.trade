@@ -3,8 +3,8 @@ import React from "react";
 import Particles from "./components/particles";
 
 const navigation = [
-	{ name: "研究成果", href: "" },
-	{ name: "加入我们", href: "/contact" },
+	{ name: "News", href: "" },
+	{ name: "Join", href: "/contact" },
 ];
 
 export default function Home() {
@@ -35,7 +35,7 @@ export default function Home() {
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 ">
-				2045.Trade is a decentralized organization committed to utilizing artificial intelligence for market analysis and strategy optimization, thereby increasing trading success rates and achieving higher certainty returns. {" "}
+				2045.Trade is an investment DAO committed to utilizing AI for market analysis and strategy optimization, thereby increasing trading success rates and achieving higher certainty returns. {" "}
 
 				</h2>
 			</div>

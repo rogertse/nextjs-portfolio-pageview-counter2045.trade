@@ -9,7 +9,7 @@ const socials = [
 		icon: <Twitter size={20} />,
 		href: "https://twitter.com/chinaqq",
 		label: "Twitter",
-		handle: "@chinaqq",
+		handle: "@yat",
 	},
 	{
 		icon: <Mail size={20} />,

@@ -18,7 +18,7 @@ const socials = [
 		handle: "1860641@qq.com",
 	},
 	{
-		icon: <微信群 size={20} />,
+		icon: <Github size={20} />,
 		href: "",
 		label: "微信",
 		handle: "hodlclub",

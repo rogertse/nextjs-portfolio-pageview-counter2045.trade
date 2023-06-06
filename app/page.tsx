@@ -5,6 +5,9 @@ import Particles from "./components/particles";
 const navigation = [
 	{ name: "News", href: "" },
 	{ name: "Join", href: "/contact" },
+	{ name: "Join", href: "/contact" },
+	<a href="#" onclick="document.getElementById('qr-code').style.display='block'; return false;">点击查看二维码</a>
+<img id="qr-code" src="二维码图片地址" style="display:none;"></img>
 ];
 
 export default function Home() {

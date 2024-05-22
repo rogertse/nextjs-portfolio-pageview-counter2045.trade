@@ -3,7 +3,7 @@ import React from "react";
 import Particles from "./components/particles";
 
 const navigation = [
-	{ name: "chat", href:"https://chat.2045.trade/" target="_blank" },
+	{ name: "Chat", href:"https://chat.2045.trade/" target="_blank" },
 	{ name: "Join", href: "/contact" },
 ];
 
